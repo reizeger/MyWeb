@@ -1,0 +1,19 @@
+body {
+    font-family: 'Orbitron', sans-serif;
+   
+background: rgba(241,111,92,1);
+background: -moz-radial-gradient(center, ellipse cover, rgba(241,111,92,1) 0%, rgba(255,72,48,1) 1%, rgba(31,6,5,1) 100%);
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(241,111,92,1)), color-stop(1%, rgba(255,72,48,1)), color-stop(100%, rgba(31,6,5,1)));
+background: -webkit-radial-gradient(center, ellipse cover, rgba(241,111,92,1) 0%, rgba(255,72,48,1) 1%, rgba(31,6,5,1) 100%);
+background: -o-radial-gradient(center, ellipse cover, rgba(241,111,92,1) 0%, rgba(255,72,48,1) 1%, rgba(31,6,5,1) 100%);
+background: -ms-radial-gradient(center, ellipse cover, rgba(241,111,92,1) 0%, rgba(255,72,48,1) 1%, rgba(31,6,5,1) 100%);
+background: radial-gradient(ellipse at center, rgba(241,111,92,1) 0%, rgba(255,72,48,1) 1%, rgba(31,6,5,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f16f5c', endColorstr='#1f0605', GradientType=1 );
+
+}
+
+
+.btn {
+
+    color: black;
+}
