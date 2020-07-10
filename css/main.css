@@ -17,3 +17,28 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f16f5c', end
 
     color: black;
 }
+
+.bgaside {
+    background-image: url(../img/eyewolf.jpg);
+    background-position: center;
+    background-size: cover;
+   
+
+
+}
+
+.col-md-4 {
+
+    margin-top: 500px;
+    
+}
+
+.texto-art {
+    font-size: 25px;
+}
+
+.tamano {
+
+   background-image: url(../img/gray-timber-wolf-1074882.jpg);
+}
+
